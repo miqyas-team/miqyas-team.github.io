@@ -1,0 +1,1 @@
+import{n as e}from"./jsx-runtime-DfI_sqtn.js";function t(){let{i18n:t}=e();return t.resolvedLanguage===`en`?`en`:`ar`}function n(e,t){return e[t]}function r(e,t){return e===0?t===`ar`?`مجانية`:`Free`:t===`ar`?`${e} ر.س`:`SAR ${e}`}export{n,t as r,r as t};
